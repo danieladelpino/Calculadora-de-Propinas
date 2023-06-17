@@ -1,0 +1,36 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background-image: url(./img/fondo-calculadora.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.contenedor {
+
+    background-color: rgb(59, 59, 59);
+    padding: 20px;
+    margin-top: 100px;
+
+
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.4rem;
+}
+
+.parrafo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.2rem;
+}
